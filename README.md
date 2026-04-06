@@ -51,22 +51,7 @@ cad/
 ### SolidWorks
 - `cad/solidworks/Assem1.SLDASM`
 
-## Architecture screenshots
 
-```md
-## Architecture snapshots
-
-![Activity Diagram](assets/architecture_screenshots/Activity Diagram.png)
-![Block Definition Diagram](assets/architecture_screenshots/Block Definition Diagram.png)
-![Block Definition Diagram (White box)](assets/architecture_screenshots/Block Definition Diagram (White box).png)
-![Internal Block Diagram](assets/architecture_screenshots/Internal Block Diagram.png)
-![Internal Block Diagram (White box)](assets/architecture_screenshots/Internal Block Diagram (White box).png)
-![Life Cycle](assets/architecture_screenshots/Life Cycle.png)
-![Requirement Diagram](assets/architecture_screenshots/Requirement_Diagram.png)
-![Sequence Diagram](assets/architecture_screenshots/Sequence Diagram.png)
-![Use Case Diagram](assets/architecture_screenshots/Use Case Diagram.png)
-![User Operating Mode](assets/architecture_screenshots/User Operating Mode.png)
-```
 ## CAD preview
 
 ![Requirement Tree](assets/architecture_screenshots/Requirement_Diagram.png)
