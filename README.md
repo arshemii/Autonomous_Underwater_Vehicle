@@ -54,7 +54,7 @@ cad/
 
 ## CAD preview
 
-![Requirement Tree](assets/architecture_screenshots/Requirement_Diagram.png)
+![Requirement Tree](assets/architecture_screenshots/Requirement_Diagram.jpg)
 
 ## Notes
 
