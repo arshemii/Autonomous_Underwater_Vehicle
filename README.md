@@ -1,8 +1,8 @@
 # AUV Pipeline Inspection Concept Design
 
-This repository contains a student concept-design project for an autonomous underwater vehicle (AUV) intended for underwater pipeline inspection.
+This repository contains my university concept-design project for an autonomous underwater vehicle (AUV) intended for underwater pipeline inspection.
 
-The work focuses on early system development: requirements definition, architecture modeling, basic verification models, and a CAD concept of the vehicle. The main tools used were Visual Paradigm, MATLAB System Composer / Simulink, and SolidWorks.
+The work focuse son system development: requirements, architectures, basic verification, and a CAD concept of the vehicle. The main tools used were Visual Paradigm, MATLAB System Composer / Simulink, and SolidWorks.
 
 ## CAD preview
 
@@ -10,7 +10,7 @@ The work focuses on early system development: requirements definition, architect
 
 ## What is inside
 
-- **Requirements** for mission, communication, localization, diagnosis, control, safety, and maintenance
+- **Requirements** for mission, communication, perception, localization, diagnosis, control, safety, and maintenance
 - **Architecture models** created in Visual Paradigm and MATLAB System Composer / Simulink
 - **Test-related models and test artifacts** for selected system functions
 - **SolidWorks CAD files** for the AUV concept and its main parts
@@ -20,14 +20,14 @@ The work focuses on early system development: requirements definition, architect
 
 ```text
 assets/
-  cad_screenshots/              CAD renders for quick preview
-  architecture_screenshots/     Put exported screenshots here for GitHub viewing
+  cad_screenshots/              CAD renders from the basic prototype
+  architecture_screenshots/     Architectures from Visual Paradigm
 
 mbse/
   matlab_simulink/              System Composer, Simulink, requirements, and test files
 
 visual_paradigm/
-  AUV.vpp                       Visual Paradigm project
+  AUV.vpp                       The main Visual Paradigm project
 
 cad/
   solidworks/                   SolidWorks assembly and part files
@@ -51,29 +51,25 @@ cad/
 ### SolidWorks
 - `cad/solidworks/Assem1.SLDASM`
 
-## Suggested architecture screenshots for this README
-
-To make the repository easier to browse on GitHub, export screenshots from your diagrams and place them in:
-
-`assets/architecture_screenshots/`
-
-Suggested filenames:
-- `requirements_diagram.png`
-- `logical_architecture.png`
-- `physical_architecture.png`
-- `test_architecture.png`
-- `activity_or_sequence_view.png`
-
-After you add them, you can place them in this README with markdown like this:
+## Architecture screenshots
 
 ```md
 ## Architecture snapshots
 
-![Requirements Diagram](assets/architecture_screenshots/requirements_diagram.png)
-![Logical Architecture](assets/architecture_screenshots/logical_architecture.png)
-![Physical Architecture](assets/architecture_screenshots/physical_architecture.png)
-![Test Architecture](assets/architecture_screenshots/test_architecture.png)
+![Activity Diagram](assets/architecture_screenshots/Activity Diagram.png)
+![Block Definition Diagram](assets/architecture_screenshots/Block Definition Diagram.png)
+![Block Definition Diagram (White box)](assets/architecture_screenshots/Block Definition Diagram (White box).png)
+![Internal Block Diagram](assets/architecture_screenshots/Internal Block Diagram.png)
+![Internal Block Diagram (White box)](assets/architecture_screenshots/Internal Block Diagram (White box).png)
+![Life Cycle](assets/architecture_screenshots/Life Cycle.png)
+![Requirement Diagram](assets/architecture_screenshots/Requirement_Diagram.png)
+![Sequence Diagram](assets/architecture_screenshots/Sequence Diagram.png)
+![Use Case Diagram](assets/architecture_screenshots/Use Case Diagram.png)
+![User Operating Mode](assets/architecture_screenshots/User Operating Mode.png)
 ```
+## CAD preview
+
+![Requirement Tree](assets/architecture_screenshots/Requirement_Diagram.png)
 
 ## Notes
 
