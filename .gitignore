@@ -1,0 +1,17 @@
+# MATLAB / Simulink generated files
+slprj/
+derived/
+resources/project/
+*.slxc
+*.slmx
+*.asv
+*.autosave
+*.mexa64
+*.mexw64
+
+# Visual Paradigm backups
+*.bak_*
+
+# OS / editor
+.DS_Store
+Thumbs.db
