@@ -1,6 +1,6 @@
 # AUV Pipeline Inspection Concept Design
 
-This repository contains my university concept-design project for an autonomous underwater vehicle (AUV) intended for underwater pipeline inspection.
+This repository contains my concept-design project for an autonomous underwater vehicle (AUV) intended for underwater pipeline inspection.
 
 The work focuse son system development: requirements, architectures, basic verification, and a CAD concept of the vehicle. The main tools used were Visual Paradigm, MATLAB System Composer / Simulink, and SolidWorks.
 
@@ -59,5 +59,3 @@ cad/
 ## Notes
 
 This is a concept and system-design project, so the repository is centered on requirements, architecture, verification models, and CAD rather than implementation-level embedded software.
-
-Generated cache folders, backup files, and temporary MATLAB artifacts were removed to keep the repository cleaner.
